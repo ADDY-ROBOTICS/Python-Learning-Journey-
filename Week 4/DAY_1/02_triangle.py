@@ -8,3 +8,4 @@ for i in range(1, rows + 1):
         print("*", end=" ")
     # Move to the next line after each row
     print()
+# This code prints a right-angled triangle of stars
