@@ -2,9 +2,9 @@ def add_numbers(n1, n2=0):
     # Code Starts
 
     # Write your code here 
-    return n1 + n2 
+    return  n1 + 10
 
-total = add_numbers(n1 ,n2 = 10)
+
 
     # Code Ends
 
