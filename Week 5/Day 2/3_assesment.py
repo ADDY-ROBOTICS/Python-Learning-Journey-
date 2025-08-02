@@ -12,4 +12,4 @@ def calculate_circle_area(r):
 radius = int(input("Enter the radius of the circle (default is 1): ") or 1)
 
 # Function call
-print(calculate_circle_area(radius))
+print(calculate_circle_area(radius)) 
