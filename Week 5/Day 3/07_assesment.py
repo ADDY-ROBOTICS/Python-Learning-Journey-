@@ -1,0 +1,1 @@
+#Write a Python Program that performs various mathematical operations on a number using built-in math functions. The function should return the absolute value, rounded value, and whether the number is positive or negative.
