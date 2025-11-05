@@ -27,7 +27,6 @@ student = Student("John", 101, 20)
 print(student.name)      # Public - works fine
 print(student._roll_no)  # Protected - accessible but convention says not to
 # print(student.__age)   # Private - will raise error
-
 # Using methods
 student.display_info()
 print("Age:", student.get_age())
